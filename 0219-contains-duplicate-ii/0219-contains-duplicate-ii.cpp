@@ -1,16 +1,26 @@
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        int n =nums.size();
-        unordered_map<int,int>mp;
-        int left =0;
-        for(int i  =0; i<n; i++){
-       
-       if(mp.find(nums[i])!=mp.end()&&i-mp[nums[i]]<=k){
-        return true;
-       }
-       mp[nums[i]]=i;
+        
+        // Stores: number -> last index where it appeared
+        unordered_map<int, int> mp;
+
+        for (int i = 0; i < nums.size(); i++) {
+
+            // Check if current number has been seen before
+            if (mp.find(nums[i]) != mp.end()) {
+
+                // Distance between current index and previous index
+                if (i - mp[nums[i]] <= k) {
+                    return true;
+                }
+            }
+
+            // Update the latest index of the current number
+            mp[nums[i]] = i;
         }
-        return false ;
+
+        // No valid duplicate found
+        return false;
     }
 };
