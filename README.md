@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0039-combination-sum) |
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0904-fruit-into-baskets](https://github.com/harshsingh0704/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
