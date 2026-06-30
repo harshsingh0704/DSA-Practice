@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshsingh0704/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/harshsingh0704/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshsingh0704/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/harshsingh0704/DSA-Practice/tree/master/0207-course-schedule) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
