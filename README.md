@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0039-combination-sum) |
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/harshsingh0704/DSA-Practice/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0860-lemonade-change) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/harshsingh0704/DSA-Practice/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0860-lemonade-change) |
