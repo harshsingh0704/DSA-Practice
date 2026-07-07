@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/harshsingh0704/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshsingh0704/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
