@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshsingh0704/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/harshsingh0704/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -163,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/harshsingh0704/DSA-Practice/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0619-biggest-single-number) |
 | [1693-daily-leads-and-partners](https://github.com/harshsingh0704/DSA-Practice/tree/master/1693-daily-leads-and-partners) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshsingh0704/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshsingh0704/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
