@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/harshsingh0704/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/harshsingh0704/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshsingh0704/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshsingh0704/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/harshsingh0704/DSA-Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
