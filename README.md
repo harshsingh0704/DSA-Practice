@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/harshsingh0704/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshsingh0704/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/harshsingh0704/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 ## Array
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshsingh0704/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshsingh0704/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/harshsingh0704/DSA-Practice/tree/master/0946-validate-stack-sequences) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/harshsingh0704/DSA-Practice/tree/master/1392-longest-happy-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
