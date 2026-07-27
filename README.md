@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/harshsingh0704/DSA-Practice/tree/master/1392-longest-happy-prefix) |
+| [1768-merge-strings-alternately](https://github.com/harshsingh0704/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/harshsingh0704/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/harshsingh0704/DSA-Practice/tree/master/0942-di-string-match) |
+| [1768-merge-strings-alternately](https://github.com/harshsingh0704/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
