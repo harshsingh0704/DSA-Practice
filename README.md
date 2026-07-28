@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshsingh0704/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshsingh0704/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/harshsingh0704/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshsingh0704/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshsingh0704/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/harshsingh0704/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/harshsingh0704/DSA-Practice/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/harshsingh0704/DSA-Practice/tree/master/1768-merge-strings-alternately) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3884-first-matching-character-from-both-ends](https://github.com/harshsingh0704/DSA-Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshsingh0704/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshsingh0704/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Stack
 |  |
 | ------- |
@@ -272,4 +277,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
