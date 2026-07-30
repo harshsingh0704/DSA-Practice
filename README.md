@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/harshsingh0704/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/harshsingh0704/DSA-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harshsingh0704/DSA-Practice/tree/master/0062-unique-paths) |
+| [0263-ugly-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/harshsingh0704/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
