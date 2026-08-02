@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/harshsingh0704/DSA-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/harshsingh0704/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -310,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/harshsingh0704/DSA-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
