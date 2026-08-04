@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harshsingh0704/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshsingh0704/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/harshsingh0704/DSA-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/harshsingh0704/DSA-Practice/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/harshsingh0704/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshsingh0704/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshsingh0704/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/harshsingh0704/DSA-Practice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/harshsingh0704/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshsingh0704/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -315,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/harshsingh0704/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
