@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshsingh0704/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/harshsingh0704/DSA-Practice/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshsingh0704/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/harshsingh0704/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/harshsingh0704/DSA-Practice/tree/master/1768-merge-strings-alternately) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/harshsingh0704/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshsingh0704/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Stack
 |  |
