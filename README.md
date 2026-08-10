@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harshsingh0704/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/harshsingh0704/DSA-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harshsingh0704/DSA-Practice/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0263-ugly-number) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
