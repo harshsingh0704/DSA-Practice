@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshsingh0704/DSA-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harshsingh0704/DSA-Practice/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/harshsingh0704/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/harshsingh0704/DSA-Practice/tree/master/0326-power-of-three) |
