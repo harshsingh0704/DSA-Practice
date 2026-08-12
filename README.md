@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/harshsingh0704/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harshsingh0704/DSA-Practice/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/harshsingh0704/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/harshsingh0704/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshsingh0704/DSA-Practice/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/harshsingh0704/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/harshsingh0704/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/harshsingh0704/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/harshsingh0704/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
