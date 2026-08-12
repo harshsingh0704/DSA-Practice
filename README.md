@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/harshsingh0704/DSA-Practice/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/harshsingh0704/DSA-Practice/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/harshsingh0704/DSA-Practice/tree/master/0135-candy) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/harshsingh0704/DSA-Practice/tree/master/0917-reverse-only-letters) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harshsingh0704/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/harshsingh0704/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
