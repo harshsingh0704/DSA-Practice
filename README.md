@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/harshsingh0704/DSA-Practice/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/harshsingh0704/DSA-Practice/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/harshsingh0704/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/harshsingh0704/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/harshsingh0704/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/harshsingh0704/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/harshsingh0704/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshsingh0704/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
