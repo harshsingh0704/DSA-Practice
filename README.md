@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/harshsingh0704/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/harshsingh0704/DSA-Practice/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshsingh0704/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/harshsingh0704/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/harshsingh0704/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/harshsingh0704/DSA-Practice/tree/master/0942-di-string-match) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshsingh0704/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshsingh0704/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Stack
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -379,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/harshsingh0704/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
