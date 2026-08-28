@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshsingh0704/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/harshsingh0704/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/harshsingh0704/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/harshsingh0704/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/harshsingh0704/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/harshsingh0704/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshsingh0704/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/harshsingh0704/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshsingh0704/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/harshsingh0704/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/harshsingh0704/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
