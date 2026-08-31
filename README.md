@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/harshsingh0704/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/harshsingh0704/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/harshsingh0704/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/harshsingh0704/DSA-Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/harshsingh0704/DSA-Practice/tree/master/0076-minimum-window-substring) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/harshsingh0704/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/harshsingh0704/DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0064-minimum-path-sum) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/harshsingh0704/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0326-power-of-three](https://github.com/harshsingh0704/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
 ## Knapsack Problem
