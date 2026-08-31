@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/harshsingh0704/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harshsingh0704/DSA-Practice/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/harshsingh0704/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshsingh0704/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/harshsingh0704/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
