@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/harshsingh0704/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/harshsingh0704/DSA-Practice/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/harshsingh0704/DSA-Practice/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/harshsingh0704/DSA-Practice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/harshsingh0704/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/harshsingh0704/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/harshsingh0704/DSA-Practice/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/harshsingh0704/DSA-Practice/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/harshsingh0704/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshsingh0704/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/harshsingh0704/DSA-Practice/tree/master/0068-text-justification) |
 | [0946-validate-stack-sequences](https://github.com/harshsingh0704/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/harshsingh0704/DSA-Practice/tree/master/1260-shift-2d-grid) |
 ## Database
