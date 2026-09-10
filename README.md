@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harshsingh0704/DSA-Practice/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/harshsingh0704/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshsingh0704/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshsingh0704/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -451,4 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshsingh0704/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshsingh0704/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
