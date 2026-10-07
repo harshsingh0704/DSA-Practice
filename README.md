@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/harshsingh0704/DSA-Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/harshsingh0704/DSA-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/harshsingh0704/DSA-Practice/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/harshsingh0704/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshsingh0704/DSA-Practice/tree/master/1020-number-of-enclaves) |
