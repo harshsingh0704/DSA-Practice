@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/harshsingh0704/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshsingh0704/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshsingh0704/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshsingh0704/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/harshsingh0704/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/harshsingh0704/DSA-Practice/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/harshsingh0704/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshsingh0704/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3884-first-matching-character-from-both-ends](https://github.com/harshsingh0704/DSA-Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
