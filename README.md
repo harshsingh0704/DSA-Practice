@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshsingh0704/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshsingh0704/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshsingh0704/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/harshsingh0704/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/harshsingh0704/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshsingh0704/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshsingh0704/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshsingh0704/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshsingh0704/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshsingh0704/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/harshsingh0704/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/harshsingh0704/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshsingh0704/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
