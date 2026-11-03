@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/harshsingh0704/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/harshsingh0704/DSA-Practice/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0263-ugly-number) |
+| [0282-expression-add-operators](https://github.com/harshsingh0704/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/harshsingh0704/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/harshsingh0704/DSA-Practice/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/harshsingh0704/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/harshsingh0704/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0494-target-sum) |
 ## Binary Search
