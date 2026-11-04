@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/harshsingh0704/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/harshsingh0704/DSA-Practice/tree/master/0048-rotate-image) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/harshsingh0704/DSA-Practice/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/harshsingh0704/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/harshsingh0704/DSA-Practice/tree/master/0224-basic-calculator) |
@@ -526,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshsingh0704/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
