@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/harshsingh0704/DSA-Practice/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/harshsingh0704/DSA-Practice/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/harshsingh0704/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/harshsingh0704/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
