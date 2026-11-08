@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshsingh0704/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/harshsingh0704/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshsingh0704/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshsingh0704/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshsingh0704/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
