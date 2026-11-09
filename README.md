@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/harshsingh0704/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/harshsingh0704/DSA-Practice/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/harshsingh0704/DSA-Practice/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshsingh0704/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshsingh0704/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshsingh0704/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
