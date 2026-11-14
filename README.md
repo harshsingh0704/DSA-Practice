@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/harshsingh0704/DSA-Practice/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/harshsingh0704/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/harshsingh0704/DSA-Practice/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/harshsingh0704/DSA-Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/harshsingh0704/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/harshsingh0704/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/harshsingh0704/DSA-Practice/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/harshsingh0704/DSA-Practice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/harshsingh0704/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
