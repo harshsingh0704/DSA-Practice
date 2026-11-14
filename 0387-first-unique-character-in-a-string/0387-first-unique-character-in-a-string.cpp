@@ -8,11 +8,14 @@ public:
               mp[s[i]]++;
 
         }
-     for(int j =0 ; j < n ; j++){
-        if(mp[s[j]]==1){
-            return j;
+        int low =0;
+        while (low<n){
+            if(mp[s[low]]<=1){
+                return low;
+            }
+            low++;
         }
-     }
+        
       return -1;
     }
 };
