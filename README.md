@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/harshsingh0704/DSA-Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/harshsingh0704/DSA-Practice/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
