@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/harshsingh0704/DSA-Practice/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/harshsingh0704/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshsingh0704/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshsingh0704/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/harshsingh0704/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshsingh0704/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/harshsingh0704/DSA-Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/harshsingh0704/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 ## Minimax
 |  |
 | ------- |
