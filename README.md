@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/harshsingh0704/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/harshsingh0704/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshsingh0704/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshsingh0704/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshsingh0704/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshsingh0704/DSA-Practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshsingh0704/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
