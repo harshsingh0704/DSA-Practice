@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/harshsingh0704/DSA-Practice/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/harshsingh0704/DSA-Practice/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshsingh0704/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshsingh0704/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/harshsingh0704/DSA-Practice/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshsingh0704/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [0785-is-graph-bipartite](https://github.com/harshsingh0704/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshsingh0704/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/harshsingh0704/DSA-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harshsingh0704/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/harshsingh0704/DSA-Practice/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshsingh0704/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/harshsingh0704/DSA-Practice/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/harshsingh0704/DSA-Practice/tree/master/0785-is-graph-bipartite) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshsingh0704/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshsingh0704/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -587,12 +591,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshsingh0704/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshsingh0704/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/harshsingh0704/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshsingh0704/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
