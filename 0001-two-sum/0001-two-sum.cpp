@@ -6,7 +6,7 @@ public:
         for(int i =0;i<n;i++){
             int compo=target-nums[i];
            if( mpp.find(compo)!=mpp.end()){
-           return{mpp[compo],i};
+           return{i,mpp[compo]};
             }
             mpp[nums[i]]=i;
         }
