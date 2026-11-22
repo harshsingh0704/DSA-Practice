@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    // Recursive function to get left view
+   /* // Recursive function to get left view
     void leftDFS(TreeNode* node, int level, vector<int>& res) {
         // Base case: null node
         if (!node) return;
@@ -26,7 +26,7 @@ public:
         // Then explore right subtree
         leftDFS(node->right, level + 1, res);
     }
-
+*/
     // Recursive function to get right view
     void rightDFS(TreeNode* node, int level, vector<int>& res) {
         if (!node) return;
@@ -40,13 +40,13 @@ public:
         // Then explore left subtree
         rightDFS(node->left, level + 1, res);
     }
-
+/*
     vector<int> leftView(TreeNode* root) {
         vector<int> res;
         leftDFS(root, 0, res);
         return res;
     }
-
+*/
     vector<int> rightSideView(TreeNode* root) {
         vector<int> res;
         rightDFS(root, 0, res);
