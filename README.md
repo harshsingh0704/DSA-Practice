@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/harshsingh0704/DSA-Practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/harshsingh0704/DSA-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/harshsingh0704/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/harshsingh0704/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harshsingh0704/DSA-Practice/tree/master/0127-word-ladder) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshsingh0704/DSA-Practice/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/harshsingh0704/DSA-Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/harshsingh0704/DSA-Practice/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/harshsingh0704/DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/harshsingh0704/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/harshsingh0704/DSA-Practice/tree/master/0282-expression-add-operators) |
