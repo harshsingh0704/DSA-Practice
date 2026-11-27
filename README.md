@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/harshsingh0704/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/harshsingh0704/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/harshsingh0704/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/harshsingh0704/DSA-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harshsingh0704/DSA-Practice/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/harshsingh0704/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshsingh0704/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/harshsingh0704/DSA-Practice/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/harshsingh0704/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/harshsingh0704/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/harshsingh0704/DSA-Practice/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/harshsingh0704/DSA-Practice/tree/master/0071-simplify-path) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshsingh0704/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/harshsingh0704/DSA-Practice/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/harshsingh0704/DSA-Practice/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/harshsingh0704/DSA-Practice/tree/master/0946-validate-stack-sequences) |
